@@ -1,3 +1,3 @@
 use inc::Module::Install;
-RTx('TicketlistTransactions');
+RTx('RTx-TicketlistTransactions');
 &WriteAll;

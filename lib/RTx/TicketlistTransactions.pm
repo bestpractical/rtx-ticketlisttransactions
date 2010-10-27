@@ -1,5 +1,5 @@
 package RTx::Ticketlist::Transactions;
 
-our $VERSION = 1;
+our $VERSION = 0.01;
 
 1;

@@ -1,5 +1,7 @@
 ---
-abstract: 'RT TicketlistTransactions Extension'
+abstract: 'Adds LastTransactionContent as a search display column'
+author:
+  - 'Best Practical Solutions.'
 build_requires:
   ExtUtils::MakeMaker: 6.42
 configure_requires:

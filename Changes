@@ -1,0 +1,9 @@
+Revision history for perl module Foo::Bar
+
+0.03 2014-03-07
+ - Fix bug with SetFieldsOnce #93547
+ - Fix warnings from Makefile.PL #93546
+
+0.02 2011-09-27
+ - Release to CPAN
+

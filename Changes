@@ -1,4 +1,4 @@
-Revision history for perl module Foo::Bar
+Revision history for perl module RTx::TicketlistTransactions
 
 0.03 2014-03-07
  - Fix bug with SetFieldsOnce #93547

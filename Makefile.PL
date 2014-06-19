@@ -1,7 +1,11 @@
 use inc::Module::Install;
-perl_version('5.008003');
-RTx('RTx-TicketlistTransactions');
-all_from('lib/RTx/TicketlistTransactions.pm');
-readme_from('lib/RTx/TicketlistTransactions.pm');
+
+RTx 'RTx-TicketlistTransactions';
+
+repository 'https://github.com/bestpractical/rtx-ticketlisttransactions';
+
+requires_rt '4.0.0';
+rt_too_new '4.4.0';
+
 sign;
-&WriteAll;
+WriteAll;

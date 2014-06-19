@@ -20,7 +20,7 @@ INSTALLATION
 
             Set(@Plugins, qw(RTx::TicketlistTransactions));
 
-        or add "RTx::TicketlistTransactions" to your existing @Plugins line.
+        or add RTx::TicketlistTransactions to your existing @Plugins line.
 
     Clear your mason cache
             rm -rf /opt/rt4/var/mason_data/obj
@@ -43,8 +43,21 @@ TIPS
 CAVEATS
     Only textual content is displayed, any formatting will be stripped.
 
+AUTHOR
+    Best Practical Solutions, LLC <modules@bestpractical.com>
+
+BUGS
+    All bugs should be reported via email to
+
+        L<bug-RTx-TicketlistTransactions@rt.cpan.org|mailto:bug-RTx-TicketlistTransactions@rt.cpan.org>
+
+    or via the web at
+
+        L<rt.cpan.org|http://rt.cpan.org/Public/Dist/Display.html?Name=RTx-TicketlistTransactions>.
+
 LICENCE AND COPYRIGHT
-    This software is copyright (c) 2011-2014 by Best Practical Solutions.
+    This software is copyright (c) 2011-2014 by Best Practical Solutions,
+    LLC
 
     This is free software, licensed under:
 

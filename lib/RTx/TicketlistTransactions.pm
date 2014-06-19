@@ -1,6 +1,6 @@
 package RTx::TicketlistTransactions;
 
-our $VERSION = 0.03;
+our $VERSION = '1.00';
 
 =head1 NAME
 
@@ -10,19 +10,19 @@ RTx::TicketlistTransactions - Adds LastTransactionContent as a search display co
 
 Works with RT 4.0 and 4.2
 
-=head1 INSTALLATION 
+=head1 INSTALLATION
 
 =over
 
-=item perl Makefile.PL
+=item C<perl Makefile.PL>
 
-=item make
+=item C<make>
 
-=item make install
+=item C<make install>
 
 May need root permissions
 
-=item Edit your /opt/rt4/etc/RT_SiteConfig.pm
+=item Edit your F</opt/rt4/etc/RT_SiteConfig.pm>
 
 If you are using RT 4.2 or greater, add this line:
 
@@ -60,9 +60,23 @@ multi-column span, something like this advanced format:
 
 Only textual content is displayed, any formatting will be stripped.
 
+=head1 AUTHOR
+
+Best Practical Solutions, LLC E<lt>modules@bestpractical.comE<gt>
+
+=head1 BUGS
+
+All bugs should be reported via email to
+
+    L<bug-RTx-TicketlistTransactions@rt.cpan.org|mailto:bug-RTx-TicketlistTransactions@rt.cpan.org>
+
+or via the web at
+
+    L<rt.cpan.org|http://rt.cpan.org/Public/Dist/Display.html?Name=RTx-TicketlistTransactions>.
+
 =head1 LICENCE AND COPYRIGHT
 
-This software is copyright (c) 2011-2014 by Best Practical Solutions.
+This software is copyright (c) 2011-2014 by Best Practical Solutions, LLC
 
 This is free software, licensed under:
 

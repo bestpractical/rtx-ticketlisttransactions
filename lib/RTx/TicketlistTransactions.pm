@@ -8,7 +8,7 @@ RTx::TicketlistTransactions - Adds LastTransactionContent as a search display co
 
 =head1 RT VERSION
 
-Works with RT 4.0 and 4.2
+Works with RT 4
 
 =head1 INSTALLATION
 

@@ -3,7 +3,7 @@ NAME
     display column
 
 RT VERSION
-    Works with RT 4.0 and 4.2
+    Works with RT 4
 
 INSTALLATION
     perl Makefile.PL

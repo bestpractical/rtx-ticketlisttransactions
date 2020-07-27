@@ -76,7 +76,7 @@ or via the web at
 
 =head1 LICENCE AND COPYRIGHT
 
-This software is copyright (c) 2011-2014 by Best Practical Solutions, LLC
+This software is copyright (c) 2011-2020 by Best Practical Solutions, LLC
 
 This is free software, licensed under:
 
